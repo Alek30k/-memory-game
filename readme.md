@@ -2,4 +2,4 @@
 
 
 
-https://alejandro-cabrera-juego-memoria-twitch.netlify.app/
+https://alejandro-cabrera-juego-memoria.netlify.app/
