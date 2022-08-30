@@ -1,7 +1,7 @@
 #Jueguito de concentrado para que te diviertas
 
 
-
+Deploy:
 https://alejandro-cabrera-juego-memoria.netlify.app/
 
 
